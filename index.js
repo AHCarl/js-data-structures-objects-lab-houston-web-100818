@@ -5,6 +5,3 @@ function drivers() {
   return driver;
 }
 
-function updateDriverWithKeyAndValue() {
-  
-}
