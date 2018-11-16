@@ -1,6 +1,6 @@
 // Write your solution in this file!
 function drivers() {
-  return {name: "Sam"}
+  const driver = {}
 }
 
 function updateDriverWithKeyAndValue() {
