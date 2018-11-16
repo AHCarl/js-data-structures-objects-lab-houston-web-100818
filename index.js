@@ -1,5 +1,9 @@
 // Write your solution in this file!
-const drivers = {}
+function drivers() {
+  const driver = {}
+  driver[name] = "Sam"
+  return driver;
+}
 
 function updateDriverWithKeyAndValue() {
   
